@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project 3 Calgary Building Permit WebApp
 
 ENGO 651 - ERIC aKUAMOAH
@@ -20,3 +21,6 @@ To enhance visualization and readability, especially in scenarios where multiple
 
 
 
+=======
+# engo651_lab_3
+>>>>>>> 745267830adca88f204699ae980fc8308075e967
