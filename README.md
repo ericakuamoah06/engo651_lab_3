@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # Project 3 Calgary Building Permit WebApp
 
-ENGO 651 - ERIC aKUAMOAH
+ENGO 651 - ERIC AKUAMOAH
 
 ### Project Description
 In Project 3, we develop a straightforward web application that allows users to access information on building permits issued by the City of Calgary.
